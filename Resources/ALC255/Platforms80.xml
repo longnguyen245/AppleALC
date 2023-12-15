@@ -244,8 +244,6 @@
 			</array>
 			<key>PathMapID</key>
 			<integer>255</integer>
-			<key>comment</key>
-			<string>Realtek ALC255 for Aspire 7 A715-42G AMD by long5436</string>
 		</dict>
 	</array>
 </dict>
